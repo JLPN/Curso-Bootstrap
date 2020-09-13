@@ -1,0 +1,24 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "primer proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {	
+	"dev": "lite-server",	
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbelenbaires/Curso-Bootstrap.git"
+  },
+  "author": "Belen Baires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbelenbaires/Curso-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/mbelenbaires/Curso-Bootstrap#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
